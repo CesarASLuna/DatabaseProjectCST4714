@@ -29,7 +29,7 @@ BEGIN
   )
 END
 
-BEGIN TRAN
+BEGIN TRANSACTION
 
 EXEC sp_AddStudent_ProfG_FP
   @FirstName = 'Testy',
@@ -49,5 +49,4 @@ SELECT * FROM Students_ProfG_FP WHERE Email = 'test@example.com';
 
 -- To undo it:
 ROLLBACK;
--- Or to keep it:
--- COMMIT;
+
