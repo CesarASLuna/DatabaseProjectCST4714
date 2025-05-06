@@ -1,0 +1,23 @@
+INSERT INTO [Courses_ProfG_FP] ([CourseName], [Description], [DurationHours])
+VALUES
+('8-Hour Pre-Assignment', 'NYS security guard training conducted via Zoom', 8),
+('16-Hour On-the-Job Training', 'Follow-up NYS security guard training via Zoom', 16),
+('8-Hour Annual In-Service', 'Annual renewal course for NYS security guards via Zoom', 8),
+('8-Hour Annual Firearms Training Course (In-Person at Gun Range)', 'Annual firearms renewal training at shooting range', 8),
+('47-Hour Firearms Training Course (In-Person at Gun Range)', 'Initial firearms certification training at shooting range', 47),
+('Adult CPR Training (Hybrid Course)', 'Hybrid CPR training course', 16),
+('F-80 Certificate of Fitness', 'Preparation for FDNY F-80 Fire Safety Coordinator certificate via Zoom', 8),
+('FDNY Fireguard Test Prep', 'Preparation for FDNY Fireguard exams via Zoom', 8),
+('F-89 Fire Life Safety Director Course', 'FDNY Fire and Life Safety Director course via Zoom', 31),
+('FDNY F-56 Construction Site Fire Safety Manager Course', 'FDNY F-56 Construction Fire Safety Manager course via Zoom', 8),
+('FDNY S-95 Training Course', 'Preparation for FDNY S-95 Fire Alarm Supervisor Certificate via Zoom', 8),
+('FDNY S-12 and S-13 Sprinkler and Standpipe Course', 'FDNY Sprinkler and Standpipe safety preparation via Zoom', 8),
+('FDNY W-07 Fire and EAP Drill Conductor Prep Course', 'Preparation for FDNY W-07 Drill Conductor exam via Zoom', 8),
+('OSHA 30 Hr Construction', '30-hour OSHA construction workplace safety course via Zoom', 30),
+('10 Hour Site Safety Training', '10-hour site safety course via Zoom', 10),
+('SABRE Civilian Safety Awareness Program (In-Person at Office)', 'In-person self-defense and civilian safety program', 8),
+('Bloodborne Pathogens Online Course (Asynchronous Online)', 'Asynchronous online course covering bloodborne pathogen safety', NULL),
+('First Aid (Asynchronous Online)', 'Asynchronous online first aid training', NULL),
+('Advanced Child Care Training (Asynchronous Online)', 'Asynchronous advanced child care and emergency response training', NULL),
+('Cat and Dog First Aid (Asynchronous Online)', 'Asynchronous course for animal first aid basics', NULL),
+('First Aid for Opioid Overdoses (Asynchronous Online)', 'Asynchronous training for responding to opioid overdoses', NULL);

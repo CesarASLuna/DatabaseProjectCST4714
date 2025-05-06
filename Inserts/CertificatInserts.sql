@@ -1,0 +1,23 @@
+INSERT INTO [Certificate_Types_ProfG_FP] ([TypeName], [Description])
+VALUES
+('8-Hour Pre-Assignment Certificate', 'Issued upon completion of 8-Hour Pre-Assignment'),
+('16-Hour On-the-Job Training Certificate', 'Issued upon completion of 16-Hour On-the-Job Training'),
+('8-Hour Annual In-Service Certificate', 'Issued upon completion of 8-Hour Annual In-Service'),
+('8-Hour Annual Firearms Training Course (In-Person at Gun Range) Certificate', 'Issued upon completion of 8-Hour Annual Firearms Training Course (In-Person at Gun Range)'),
+('47-Hour Firearms Training Course (In-Person at Gun Range) Certificate', 'Issued upon completion of 47-Hour Firearms Training Course (In-Person at Gun Range)'),
+('Adult CPR Training (Hybrid Course) Certificate', 'Issued upon completion of Adult CPR Training (Hybrid Course)'),
+('F-80 Certificate of Fitness Certificate', 'Issued upon completion of F-80 Certificate of Fitness'),
+('FDNY Fireguard Test Prep Certificate', 'Issued upon completion of FDNY Fireguard Test Prep'),
+('F-89 Fire Life Safety Director Course Certificate', 'Issued upon completion of F-89 Fire Life Safety Director Course'),
+('FDNY F-56 Construction Site Fire Safety Manager Course Certificate', 'Issued upon completion of FDNY F-56 Construction Site Fire Safety Manager Course'),
+('FDNY S-95 Training Course Certificate', 'Issued upon completion of FDNY S-95 Training Course'),
+('FDNY S-12 and S-13 Sprinkler and Standpipe Course Certificate', 'Issued upon completion of FDNY S-12 and S-13 Sprinkler and Standpipe Course'),
+('FDNY W-07 Fire and EAP Drill Conductor Prep Course Certificate', 'Issued upon completion of FDNY W-07 Fire and EAP Drill Conductor Prep Course'),
+('OSHA 30 Hr Construction Certificate', 'Issued upon completion of OSHA 30 Hr Construction'),
+('10 Hour Site Safety Training Certificate', 'Issued upon completion of 10 Hour Site Safety Training'),
+('SABRE Civilian Safety Awareness Program (In-Person at Office) Certificate', 'Issued upon completion of SABRE Civilian Safety Awareness Program (In-Person at Office)'),
+('Bloodborne Pathogens Online Course (Asynchronous Online) Certificate', 'Issued upon completion of Bloodborne Pathogens Online Course (Asynchronous Online)'),
+('First Aid (Asynchronous Online) Certificate', 'Issued upon completion of First Aid (Asynchronous Online)'),
+('Advanced Child Care Training (Asynchronous Online) Certificate', 'Issued upon completion of Advanced Child Care Training (Asynchronous Online)'),
+('Cat and Dog First Aid (Asynchronous Online) Certificate', 'Issued upon completion of Cat and Dog First Aid (Asynchronous Online)'),
+('First Aid for Opioid Overdoses (Asynchronous Online) Certificate', 'Issued upon completion of First Aid for Opioid Overdoses (Asynchronous Online)');
